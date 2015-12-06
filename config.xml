@@ -106,4 +106,8 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 
+<<<<<<< HEAD
 </widget>
+=======
+</widget>
+>>>>>>> 405bbadd7964745a84813317225bb3e337f7a2c1
